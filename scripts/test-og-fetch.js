@@ -1,6 +1,6 @@
 const https = require('https');
 
-const imageUrl = 'https://raw.githubusercontent.com/muhsina-ov/shubham-weds-rima/main/og-image.jpg?v=1';
+const imageUrl = 'https://raw.githubusercontent.com/muhsina-ov/shubam/main/og-image.jpg?v=1';
 
 const testAgents = [
   { name: 'Standard HTTPS GET', ua: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' },
